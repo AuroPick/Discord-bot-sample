@@ -1,0 +1,27 @@
+{
+  "name": "aykut-bot",
+  "version": "1.0.0",
+  "description": "A new discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuroPick/Aykut-Bot.git"
+  },
+  "keywords": [
+    "Aykut",
+    "Saki",
+    "AuroPick"
+  ],
+  "author": "Aykut Saki, AuroPick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuroPick/Aykut-Bot/issues"
+  },
+  "homepage": "https://github.com/AuroPick/Aykut-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
